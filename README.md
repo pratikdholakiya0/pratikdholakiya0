@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 - I’m currently learning java
 - 📫 How to reach me: dholakiya225@gmail.com
