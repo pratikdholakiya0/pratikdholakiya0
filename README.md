@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/beda0d8a-21ea-4721-adf6-82a7820e3dfb)![image](https://github.com/user-attachments/assets/9795b721-7d39-4c26-bd44-8203eea8c054)<h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
+<h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 
