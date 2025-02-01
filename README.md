@@ -15,7 +15,7 @@
 <h2>Languages and Tools:</h2>
 <a href="#"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="50px"></a>
 <a href="#"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="60px"></a>
-<a href="#"><img margin="5px" src="https://th.bing.com/th/id/OIP.0qThwGUlnULLAz8MTnN9QwHaHa?rs=1&pid=ImgDetMain" width="50px"></a>
+<a href="#"><img src="https://th.bing.com/th/id/OIP.0qThwGUlnULLAz8MTnN9QwHaHa?rs=1&pid=ImgDetMain" width="55px"></a>
 <a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="50px"></a>
 <a href="#"><img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="50px"></a>
 <a href="#"><img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="50px"></a>
