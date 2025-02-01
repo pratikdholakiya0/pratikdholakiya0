@@ -14,4 +14,6 @@
 
 <h2>Languages and Tools:</h2>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="60px">
-<img src=""><img src=""><img src="">
+<img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="60px">
+<img src="" width="60px">
+<img src="" width="60px">
