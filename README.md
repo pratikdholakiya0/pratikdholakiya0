@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
+![image](https://github.com/user-attachments/assets/beda0d8a-21ea-4721-adf6-82a7820e3dfb)![image](https://github.com/user-attachments/assets/9795b721-7d39-4c26-bd44-8203eea8c054)<h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 
@@ -18,5 +18,5 @@
 <a href="#"><img src="https://th.bing.com/th/id/OIP.0qThwGUlnULLAz8MTnN9QwHaHa?rs=1&pid=ImgDetMain" width="55px"></a>
 <a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="60px"></a>
 <a href="#"><img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="50px"></a>
-<a href="#"><img src="https://pngimg.com/d/mysql_PNG29.png" width="60px"></a>
+<a href="#"><img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="60px"></a>
 <a href="#"><img src="" width="60px"></a>
