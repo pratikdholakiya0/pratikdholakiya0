@@ -7,5 +7,5 @@
 
 
 <h2>Connect with me:</h2>
-<a href="https://www.instagram.com/patriikxd"><img src="https://static.vecteezy.com/system/resources/previews/018/930/413/large_2x/instagram-logo-instagram-icon-transparent-free-png.png"></a>
+<a href="https://www.instagram.com/patriikxd"><img width="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/413/large_2x/instagram-logo-instagram-icon-transparent-free-png.png"></a>
 
