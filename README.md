@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/u/dholakiya225"><img margin="5px" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"></a>
 
 <h2>Languages and Tools:</h2>
-<a href="#"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="45px"></a>
+<a href="#"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="48px"></a>
 <a href="#"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="60px"></a>
 <a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="60px"></a>
 <a href="#"><img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="50px"></a>
