@@ -9,5 +9,5 @@
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/pratik-dholakiya"><img width="70px" src="https://beaconman.com/wp-content/uploads/2020/11/Linkedin_symbol_transparent.png"></a>
 <a href="https://x.com/Pratiikxd"><img width="50px" src="https://static.vecteezy.com/system/resources/previews/034/800/663/original/x-new-twitter-logo-free-png.png"></a>
-<a href="https://www.instagram.com/patriikxd"><img width="70px" src="https://static.vecteezy.com/system/resources/previews/018/930/413/large_2x/instagram-logo-instagram-icon-transparent-free-png.png"></a>
+<a href="https://www.instagram.com/patriikxd"><img position="relative" top="15px" width="70px" src="https://static.vecteezy.com/system/resources/previews/018/930/413/large_2x/instagram-logo-instagram-icon-transparent-free-png.png"></a>
 
