@@ -1,4 +1,4 @@
-## Hi 👋, I'm Pratik Dholakiya
+##<h1 align="center"> Hi 👋, I'm Pratik Dholakiya</h1>
 
 -A passionate developer from India
 
