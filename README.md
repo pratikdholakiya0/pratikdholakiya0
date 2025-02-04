@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer</h3>
 
-- I’m currently learning java
+- 🌱 I’m currently learning java
 - 📫 How to reach me: dholakiya225@gmail.com
 
   
